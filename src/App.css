@@ -1,0 +1,38 @@
+.App{
+    background-color: aqua;
+}
+.Inner{
+    margin: auto;
+    width: 50%;
+    background-color: blueviolet;
+}
+#asd{
+    margin: auto;
+    width: 50%;
+    border-radius: 4px;
+    border-color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size:xx-large;
+    font-style: italic;
+    background-color: aliceblue;
+}
+.in{
+    align-items: center;
+    width: 7cm;
+    font-size: larger;
+    margin: auto;
+    border-radius: 4px;
+    padding: 5px;
+    border-color: red;
+    border-style: dotted;
+}
+.btn{
+    font-size: 0.4cm;
+    border-radius: 4px;
+    border-color: red;
+}
+.form{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1cm;
+}
